@@ -188,6 +188,9 @@ button:hover {
     background-color: #cfcbca;
 }
 
+
+
+
 .background {
     width: 430px;
     height: 415px;
@@ -287,6 +290,7 @@ button:hover {
     box-shadow: 1px 1px 11px 8px #e7a83a;
 }
 
+
 .site-content {
     height: 70%;
 }
@@ -331,6 +335,7 @@ button:hover {
     max-width: 90px;
     margin-right: 20px;
 }
+
 
 .confirm-reservation {
     height: 80%;
@@ -528,6 +533,8 @@ button:hover {
     display: none;
 }
 
+
 .selected-room{
-    background-color: #cfcbca;
+    background-color: #cfcbca !important;
+
 }

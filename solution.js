@@ -47,19 +47,6 @@ function searchFormData(e) {
     }
 }
 
-
-let reservation =
-{
-    startDate: null,
-    endDate: null,
-    guestsCount: 0,
-    roomType: null,
-    name: null,
-    phone: null,
-    email: null
-}
-
-
 function changeContent(className) {
   document
     .querySelectorAll(".custom-form")
